@@ -1,0 +1,8 @@
+# Ignore the Adjectives folder
+Adjectives/
+
+# Ignore the ISL_CSLRT_Corpus folder
+ISL_CSLRT_Corpus/
+
+# Ignore the myenv folder
+myenv/
